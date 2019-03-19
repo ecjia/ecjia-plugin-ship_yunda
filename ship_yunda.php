@@ -46,7 +46,7 @@
 //
 /*
 Plugin Name: 韵达速递
-Plugin URI: http://www.ecjia.com/plugins/ecjia.yunda/
+Plugin URI: http://www.ecjia.com/plugins/ecjia.ship_yunda/
 Description: 韵达速递，保价费按照申报价值的3％交纳，未保价的物品遗失，按照物品的实际价格予以赔偿,但最高不超过所收运费的3倍；物品保价金额最高不超过2万元。
 Author: ECJIA TEAM
 Version: 2.0.0
