@@ -50,20 +50,7 @@
 defined('IN_ECJIA') or exit('No permission resources.');
 
 return array(
-    'yunda'          	=> '韵达速递',
-    'yunda_desc'     	=> '韵达速递的相关说明。未保价的物品遗失，按照物品的实际价格予以赔偿,但最高不超过所收运费的3倍；物品保价金额最高不超过2万元。',
-    
-    'item_fee' 		=> '单件商品费用：',
-    'base_fee' 		=> '首重费用：',
-    'step_fee' 		=> '续重每1000克或其零数的费用：',
-	'pay_fee'                => '货到付款支付费用：',
-	'free_money'             => '免费额度：',
-	'fee_compute_mode'       => '费用计算方式：',
-	'fee_compute_mode_range' => array(
-			'by_weight' => '按重量',
-			'by_number' => '按件数'
-	),
-    
+
     /* 快递单部分 */
     'lable_select_notice' => '--选择插入标签--',
     

@@ -81,6 +81,7 @@ class plugin_ship_yunda {
 }
 
 Ecjia_PluginManager::extend('ship_yunda', function() {
+    RC_Locale::loadPluginTextdomain('ship_yunda');
     require_once RC_Plugin::plugin_dir_path(__FILE__) . 'ship_yunda.class.php';
     return new ship_yunda();
 });
